@@ -1,4 +1,4 @@
-package com.example.mainactivity;
+package com.sozi319.rssreader;
 
 import org.junit.Test;
 

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MainActivity</string>
+    <string name="general_retry">обновить</string>
 </resources>
